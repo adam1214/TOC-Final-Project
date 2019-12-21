@@ -72,3 +72,20 @@ python3 app.py
 ![fsm](./fsm.png)
 ## Reference
 [TOC-Project-2017](https://github.com/Lee-W/TOC-Project-2017) ❤️ [@Lee-W](https://github.com/Lee-W)
+
+## 其他參考資訊
+* [錯誤討論網站](https://hackmd.io/tHi9mQJ-QTeMUsH1Xdhj7g?view)
+
+* ACCESS_TOKEN：EAAKt6CVmvJ4BAASIGkUMmvG9uuRh5I2gccA0i1rheNuQOCXLfudtjAoaZBNBmz2QtnnMHH5JCqampCcYyqruFI7euOuQpEREMu7HnneykAzoEZAi1Ez4MKtrhtqU5SJyMHs38Y45BZBAZAnvD1ZAq9YfeAMAQPOBHuA98eZB8rH3oiig6622v6
+
+* 回呼網址
+https://2206161d.ngrok.io
+* messenger setting：https://developers.facebook.com/apps/754162524929182/messenger/settings/
+
+* [Robin Lin's notes](https://hackmd.io/14wWUWu1QsuosoZSq_NCzg#)
+
+* [TOC-Project-2019 Intro. Slides](https://hackmd.io/9zkXk3BnRpWcXUZCq7eJLg?both)
+
+* [課堂講解1](https://www.youtube.com/watch?v=_Xe28OAAxJw)
+  [課堂講解2](https://www.youtube.com/watch?v=2Tmcm5jTrGU)
+  [課堂講解3](https://www.youtube.com/watch?v=urRV2BK0H_g)
