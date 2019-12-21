@@ -89,3 +89,7 @@ https://2206161d.ngrok.io
 * [課堂講解1](https://www.youtube.com/watch?v=_Xe28OAAxJw)
   [課堂講解2](https://www.youtube.com/watch?v=2Tmcm5jTrGU)
   [課堂講解3](https://www.youtube.com/watch?v=urRV2BK0H_g)
+  
+* [json requests Tutorial](https://2.python-requests.org//zh_CN/latest/user/quickstart.html#json)
+  
+* [facebook for developers-Sending Messages](https://developers.facebook.com/docs/messenger-platform/send-messages#content_types)
